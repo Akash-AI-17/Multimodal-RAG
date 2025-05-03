@@ -1,7 +1,3 @@
-# Multimodal-RAG
-
----
-
 ## 🚀 Multimodal RAG System – PDF, Audio & Video Querying
 
 This project implements a powerful **Multimodal Retrieval-Augmented Generation (RAG)** system capable of answering user queries from **PDFs, audio files, and videos** using advanced embedding and retrieval techniques. It features an **interactive Streamlit interface** for smooth user interaction.
