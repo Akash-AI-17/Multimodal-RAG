@@ -214,8 +214,3 @@ def query_vector_database(db, question):
 
     return res
 
-
-
-
-
-
