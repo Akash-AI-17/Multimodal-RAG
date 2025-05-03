@@ -29,7 +29,7 @@ This project implements a powerful **Multimodal Retrieval-Augmented Generation (
 ### 🧠 How It Works
 
 1. **PDFs**: Extracts text and splits it into meaningful chunks for embedding and retrieval.
-2. **Audio Files**: Converts speech to text using a speech recognition model, then embeds the transcribed text.
+2. **Audio Files**: Converts speech to text using a OpenAI's whisper model, then embeds the transcribed text.
 3. **Video Files**:
 
    * Extracts frames from the video and stores them in a temporary directory.
