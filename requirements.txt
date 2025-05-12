@@ -1,0 +1,12 @@
+torch
+openai-whisper
+opencv-python
+PyMuPDF  # required by PyPDFLoader
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+groq
+streamlit
+faiss-cpu
