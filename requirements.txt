@@ -1,7 +1,7 @@
 torch
 openai-whisper
 opencv-python
-PyMuPDF  # required by PyPDFLoader
+PyMuPDF  
 langchain
 langchain-community
 langchain-core
